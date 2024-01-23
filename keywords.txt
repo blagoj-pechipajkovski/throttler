@@ -1,0 +1,19 @@
+###########################################
+# Syntax Coloring Map For DHT-sensor-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Throttler	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+loop_all	KEYWORD2
+execute	KEYWORD2
+set_interval	KEYWORD2
+fn	KEYWORD2
+
