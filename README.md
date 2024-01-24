@@ -2,4 +2,4 @@
 
 ## Description
 
-An Arduino library to limit functions that might spam.
+Throttle the rate of execution of Arduino code.
