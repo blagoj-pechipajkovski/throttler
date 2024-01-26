@@ -1,4 +1,4 @@
-# throttler
+# Throttler
 
 ## Description
 
